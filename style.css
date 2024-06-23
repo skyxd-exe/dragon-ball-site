@@ -125,3 +125,20 @@ body{
 .wrapper.button.clicked{
     background-color: green;
 }
+@media screen and (max-width: 1024px) {
+    .wrapper{
+        width: 350px;
+        padding: 10px 10px;
+        height: 340px;
+        backdrop-filter: blur(50px);
+    }
+    .inputbox1 input{
+        width: 320px;
+        height: 45px;
+        padding-top: 5px;
+        padding-left: 15px;
+    }
+    body{
+        background: url('goku3.jpg');
+    }
+}
