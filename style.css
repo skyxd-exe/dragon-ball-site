@@ -125,7 +125,7 @@ body{
 .wrapper.button.clicked{
     background-color: green;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 379px) {
     .wrapper{
         width: 200px;
         height: 300px;
